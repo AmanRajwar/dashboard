@@ -31,7 +31,8 @@ Make sure you have the following installed:
 
    ```bash
    git clone https://github.com/AmanRajwar/Test-web-glaze.git
-   cd Test-web-glaze
+   cd dashboard
+
 
 2. Install dependencies:
 
