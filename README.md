@@ -30,8 +30,9 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/AmanRajwar/Test-web-glaze.git
-   cd Test-web-glaze
+   git clone https://github.com/AmanRajwar/dashboard.git
+   cd dashboard
+
 
 2. Install dependencies:
 
